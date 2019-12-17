@@ -11,7 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using DotNetCoreSqlDb.Models;
-
+    
 namespace DotNetCoreSqlDb
 {
     public class Startup
